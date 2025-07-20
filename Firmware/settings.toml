@@ -1,0 +1,6 @@
+CIRCUITPY_WIFI_SSID = ""
+CIRCUITPY_WIFI_PASSWORD = ""
+
+CIRCUITPY_BLE_NAME = "InfernoBoard"  # 🔥 rename this to whatever
+
+KMK_KBD_LAYOUT = "KEYBOARD"
