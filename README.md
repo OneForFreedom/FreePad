@@ -6,12 +6,12 @@ This is a fully wireless system with a built in Battery! It features a nice!nano
 I made this because I thought havigng a wireless pad would be really fun to have.
 
 # Juicy Images!
-![BG FreePad (1)](Images/BG FreePad (1).png)  
-![BG FreePad (2)](Images/BG FreePad (2).png)  
-![BG FreePad (3)](/Images/BG FreePad (3).png)  
-![BG FreePad (4)](Images/BG FreePad (4).png)  
-![FreePad PCB](Images/FreePad PCB.png)  
-![FreePad Schematic](Images/FreePad Schematic.png)  
+![BG FreePad (1)](/Images/BG%20FreePad%20(1).png)  
+![BG FreePad (2)](/Images/BG%20FreePad%20(2).png)  
+![BG FreePad (3)](/Images/BG%20FreePad%20(3).png)  
+![BG FreePad (4)](/Images/BG%20FreePad%20(4).png)  
+![FreePad PCB](/Images/FreePad%20PCB.png)  
+![FreePad Schematic](/Images/FreePad%20Schematic.png)  
 
 # And the BEAUTIFUL BOM!
 
