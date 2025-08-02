@@ -11,7 +11,7 @@ created_at: "16/07/2025"
 
 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 
-(Its 12 am)
+(Its 12 am and its not that close to the deadline, I'm just gonna snooze and do work tomorrow)
 
 ## Time taken : 4 min
 
